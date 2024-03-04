@@ -3,7 +3,7 @@ A simple arcade game
 
 **Objective**: Complete all levels by collecting all blue crystals on each level. For speedrunners, try to do so with the highest score possible.
 
-The user can perform the following movements:
+The user can perform the following movements:<br />
 **UP Arrow**: Move up one square<br />
 **DOWN Arrow**: Move down one square<br />
 **LEFT Arrow**: Move left one square<br />
