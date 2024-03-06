@@ -1,6 +1,8 @@
 # RetroRampage
 A simple arcade game
 
+**Instructions**: For Mac, install XQuartz. For Linux, install OpenGL and freeGLUT.
+
 **Objective**: Complete all levels by collecting all blue crystals on each level. For speedrunners, try to do so with the highest score possible.
 
 The user can perform the following movements:<br />
